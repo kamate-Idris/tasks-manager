@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "teacher appointment",
+      "day": "June 1st at 2:4pm",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Doctors appointment",
+      "day": "March 1st at 2:4pm",
+      "reminder": false
+    },
+    {
+      "id": 3,
+      "text": "Juge appointment",
+      "day": "September 1st at 2:4pm",
+      "reminder": true
+    },
+    {
+      "id": 206666,
+      "text": "Meetinf with professor",
+      "day": "Tady",
+      "reminder": true
+    }
+  ]
+}
